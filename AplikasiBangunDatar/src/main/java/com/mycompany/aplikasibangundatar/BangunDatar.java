@@ -23,6 +23,7 @@ abstract class BangunDatar {
         this.namaBangunDatar = namaBangunDatar;
     }
     
+    //KODE TERBARU
     abstract double luas();
     abstract double keliling();
     
